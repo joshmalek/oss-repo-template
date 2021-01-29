@@ -19,7 +19,7 @@ Consider edge cases and don't be too quick to jump to conclusions
 ### Linux
 
 #### Tree Install
-![tree](tree.png)
+![tree](tree.PNG)
 
 ### Regex
 
