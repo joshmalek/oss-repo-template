@@ -1,6 +1,6 @@
 # Lab 01 Report - Introduction to Open Source Software
 
-![discord](discord.png)
+![discord](discord.PNG)
 
 #### My suggestions for How to answer Questions in a helpful way:
 
@@ -19,9 +19,13 @@ Consider edge cases and don't be too quick to jump to conclusions
 ### Linux
 
 #### Tree Install
+<<<<<<< HEAD
 ![tree](tree.png)
 
 ### Regex
 
 #### 7 problems SS
 ![seven](prob7.PNG)
+=======
+![tree](tree.PNG)
+>>>>>>> 1933c1e553d4de92a4c3c0fd20b374cd55ee5a29
