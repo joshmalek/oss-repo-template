@@ -20,3 +20,8 @@ Consider edge cases and don't be too quick to jump to conclusions
 
 #### Tree Install
 ![tree](tree.png)
+
+### Regex
+
+#### 7 problems SS
+![seven](prob7.PNG)
