@@ -1,6 +1,6 @@
 # Lab 01 Report - Introduction to Open Source Software
 
-![discord](discord.png)
+![discord](/discord.png)
 
 #### My suggestions for How to answer Questions in a helpful way:
 
@@ -19,4 +19,4 @@ Consider edge cases and don't be too quick to jump to conclusions
 ### Linux
 
 #### Tree Install
-![tree](tree.png)
+![tree](/tree.png)
