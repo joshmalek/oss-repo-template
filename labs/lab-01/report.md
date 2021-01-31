@@ -33,3 +33,8 @@ Consider edge cases and don't be too quick to jump to conclusions
 
 #### Blockly Maze 10 Solution
 ![maze](maze.PNG)
+
+
+### Reflection
+
+For my open source project, I 
