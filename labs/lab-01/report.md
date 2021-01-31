@@ -25,3 +25,11 @@ Consider edge cases and don't be too quick to jump to conclusions
 
 #### 7 problems SS
 ![seven](prob7.PNG)
+
+#### 4 crossword problems
+![crossword](crossword.PNG)
+
+### Blockly
+
+#### Blockly Maze 10 Solution
+![maze](maze.PNG)
