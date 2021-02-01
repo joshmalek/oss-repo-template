@@ -34,8 +34,11 @@ Consider edge cases and don't be too quick to jump to assumptions
 
 #### 4 crossword problems
 ![crossword](cross1.PNG)
+
 ![crossword](cross2.PNG)
+
 ![crossword](cross3.PNG)
+
 ![crossword](crossword.PNG)
 
 ### Blockly
