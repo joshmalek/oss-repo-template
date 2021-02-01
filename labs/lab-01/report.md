@@ -24,6 +24,12 @@ Consider edge cases and don't be too quick to jump to assumptions
 ### Regex
 
 #### 7 problems SS
+![seven](prob1.PNG)
+![seven](prob2.PNG)
+![seven](prob3.PNG)
+![seven](prob4.PNG)
+![seven](prob5.PNG)
+![seven](prob6.PNG)
 ![seven](prob7.PNG)
 
 #### 4 crossword problems
