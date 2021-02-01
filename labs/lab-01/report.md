@@ -37,4 +37,4 @@ Consider edge cases and don't be too quick to jump to conclusions
 
 ### Reflection
 
-For my open source project, I 
+For finding an open source project, I read through the various provided materials and thought more on my own open source experience in RCOS.  I enjoy working on projects that I have background knowledge on, or try to mitigate an issue I have real world experience with.  I feel like I wouldn't enjoy working on some random system level project, trying to optimize code or something like that.  Obviously I would have to start small with the project, and familiarize, but eventually I want to be able to provide meaningful contributions to a project I would personally enjoy.  I think for in terms of how I can find this project, I could possibly search through GitHub for topics I'm interested in, such as eSports, data analytics, game mods, or potentially housing or eCommerce projects.  I know this casts a very wide net, but I do have more interests outside of these that I would probably search as well.  I could also potentially search through opensource.google with the same purposes.
