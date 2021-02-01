@@ -6,7 +6,7 @@
 
 Provide strong documentation in cases of disagreement with answer
 
-Consider edge cases and don't be too quick to jump to conclusions
+Consider edge cases and don't be too quick to jump to assumptions
 
 
 #### My thoughts on Chapter 3 of Free Culture
