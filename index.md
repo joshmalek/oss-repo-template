@@ -3,6 +3,7 @@
 
 ## Bio
 Discord: swine#4527
+![face](face.jpeg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
