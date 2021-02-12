@@ -26,13 +26,15 @@ The Gitstats output page seems to correlate pretty well with my findings, the li
 - [Latest commit](https://github.com/wtg/shuttletracker/commit/3e8b9af6a7d8b341b605f137cf2b4577edd6bed3) on December 4, 2020 by MattCzyr
 - Branches: 55
 
+### gitstats image:
+
 ![](gitstatsShuttle.png)
 
 The results of `gitstats` are a bit different than the stats from `git`, but
 they're in the same ballpark. For example, 33 contributors vs. 39 contributors,
 and ~62,000 lines of code vs. ~53,000 lines of code.
 
-Screenshot of `gource`:
+### gource:
 
 ![](gourceShuttle.png)
 
@@ -44,10 +46,12 @@ Screenshot of `gource`:
 - latest commit: `Merge pull request #77 from rcos/#76`
 - current branches: `master`, `cas-tutorial`, `collection-page`, `google-maps-integrate`, `juliadraft`, `landlord-auth`, `landlord-dashboard`, `landlord-directory`, `qol-fixes`, `#22`, `#40-josh`, `#40-storage`, `#40`, `#46`, `#49`, `#50`, `#53`, `#56`, `#58`, `#60`, `#63`, `#65`, `#67-cont`, `#67`, `#70`, `#74`, `#76`
 
-gitstats image:
+### gitstats image:
+
 ![gitstats](offcmpus.PNG)
 
-gource:
+### gource:
+
 ![gource](gourceoffcmpus.png)
 
 
