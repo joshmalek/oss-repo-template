@@ -45,10 +45,10 @@ Screenshot of `gource`:
 - current branches: `master`, `cas-tutorial`, `collection-page`, `google-maps-integrate`, `juliadraft`, `landlord-auth`, `landlord-dashboard`, `landlord-directory`, `qol-fixes`, `#22`, `#40-josh`, `#40-storage`, `#40`, `#46`, `#49`, `#50`, `#53`, `#56`, `#58`, `#60`, `#63`, `#65`, `#67-cont`, `#67`, `#70`, `#74`, `#76`
 
 gitstats image:
-![gitstats](screenshots/offcmpus.png)
+![gitstats](offcmpus.png)
 
 gource:
-![gource](screenshots/gourceoffcmpus.png)
+![gource](gourceoffcmpus.png)
 
 
 ## RPI Campus Map 
