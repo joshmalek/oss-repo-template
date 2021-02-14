@@ -15,7 +15,7 @@ $\begin{bmatrix}
 \end{bmatrix}$
 ```
 
-# Part 1: Documentation
+# Part 2: Community
 
 ## The Hotbox
 
