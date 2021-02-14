@@ -1,3 +1,20 @@
+# Part 1: Documentation
+
+Latex 1: $\sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots}}}}$
+
+Latex 2: $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\ldots}}}}$
+
+Latex 3: 
+
+$\begin{bmatrix}
+1 & 1 & 1 & 1\\
+-1 & 1 & -1 & 1\\
+-1 & -1 & 1 & 1\\
+1 & -1 & -1 & 1
+\end{bmatrix}$
+
+
+
 ## The Hotbox
 
 the number of contributors: 9 contributors
