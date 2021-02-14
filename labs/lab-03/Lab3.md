@@ -15,6 +15,7 @@ $\begin{bmatrix}
 \end{bmatrix}$
 ```
 
+# Part 1: Documentation
 
 ## The Hotbox
 
