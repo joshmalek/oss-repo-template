@@ -6,13 +6,14 @@ Latex 2: $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\ldots}}}}$
 
 Latex 3: 
 
+```
 $\begin{bmatrix}
 1 & 1 & 1 & 1\\
 -1 & 1 & -1 & 1\\
 -1 & -1 & 1 & 1\\
 1 & -1 & -1 & 1
 \end{bmatrix}$
-
+```
 
 
 ## The Hotbox
