@@ -2,15 +2,15 @@
 
 ### Why it is important to choose a LICENSE?
 
-It is important to choose a license for your project so you can guarantee your code is leveraged exactly how you want it to be.  It also helps protect you in legal situations, and that your work is properly cited when used in other codebases.
+It is important to choose a license for your project so you can guarantee your code is leveraged exactly how you want it to be.  It also helps protect you in legal situations, and that your work is properly cited when used in other codebases.  Because there are many different types of licenses, it is a simple task to find the one tailored right for you and your project.
 
 ### Why is it important that you SHOULDN'T use a project that doesn't have an explicit license?
 
-If a project does not have an explicit license, it means all contributors for that project are copyright holders.  This means that I cannot use their code, and I could open myself up to legal issues if I were to use it.
+If a project does not have an explicit license, it means all contributors for that project are copyright holders.  This means that I cannot use their code, and I could open myself up to legal issues if I were to use it.  Ideally, you would only use projects with explicit licenses so you don't get sued.
 
 ### Do you agree with this claim? (Failure to Follow the OS Model)
 
-
+I believe I agree with the claim the section makes.  Gopher's downfall was ultimately a result of many different issues, but if they had released their code in a less finished state and cultivated a following prior to the Web and in a similar way, they would most likely have at least survived longer, if not be the technology we use today.  They tried to hard to release a finished product, instead of allowing the community to thrive and drive growth.
 
 
 ### Link to table repo
