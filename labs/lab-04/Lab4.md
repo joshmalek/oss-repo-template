@@ -12,6 +12,10 @@ If a project does not have an explicit license, it means all contributors for th
 
 I believe I agree with the claim the section makes.  Gopher's downfall was ultimately a result of many different issues, but if they had released their code in a less finished state and cultivated a following prior to the Web and in a similar way, they would most likely have at least survived longer, if not be the technology we use today.  They tried to hard to release a finished product, instead of allowing the community to thrive and drive growth.
 
+### Can you justify why such a license is chosen based on the history, goals and philosophy of the project? (Justification for ONE choice is enough, but be specific and make sure you provide references to articles or web resources).
+
+For Android, I believe they use an Apache 2.0 License to promote development in the community, but still allow themselves and others to market their own versions with a license.  The Apache license is good for commerical development specifically, as most big phone companies sell their phones with their version of Android running on it.  This license is also good as the improvements companies make on Android aren't required to be reintegrated into the main project, meaning they can keep their properiatary improvements secret.  Article: https://arstechnica.com/uncategorized/2007/11/why-google-chose-the-apache-software-license-over-gplv2/
+
 
 ### Link to table repo
 
