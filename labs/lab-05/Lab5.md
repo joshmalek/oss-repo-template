@@ -27,3 +27,11 @@
 
 ### Generate Cmake    
 ![image](gencachefile.PNG)
+
+
+### Size
+
+8296 bytes for Shared vs 8464 for Static, with Shared being marginally smaller than Static.
+
+### Output
+![image](run.PNG)
