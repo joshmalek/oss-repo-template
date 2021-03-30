@@ -1,6 +1,11 @@
 
 
+### Step 1
+![image](succeed.PNG)
 
+### Step 2
+
+![image](build_tests.PNG)
 
 ### Step 3
 
