@@ -11,6 +11,7 @@
 ### Checkpoint 3
 
 added word "Funding" to definition "A myth told to young grad students"
+
 updated word "Capitaland" to definition "A dumb place"
 
 ![image](changes.PNG)
