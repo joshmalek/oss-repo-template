@@ -16,6 +16,8 @@ updated word "Capitaland" to definition "A dumb place"
 
 ![image](changes.PNG)
 
+![image](update.PNG)
+
 ![image](gitdiff.PNG)
 
 ### Checkpoint 4
