@@ -2,9 +2,13 @@
 
 ### Checkpoint 1
 
+MongoDB was properly installed and connected as shown.
+
 ![image](part1.PNG)
 
 ### Checkpoint 2
+
+The test database was properly cloned.
 
 ![image](part2.PNG)
 
